@@ -14,13 +14,13 @@
    <key>metadata</key>
    <dict>
    <key>bundle-identifier</key>
-   <string>com.DB3Bank.DB3-Bank</string>
+   <string>com.nsw.epafieldapp.dev</string>
    <key>bundle-version</key>
-   <string>1.0.0</string>
+   <string>1.0</string>
    <key>kind</key>
    <string>software</string>
    <key>title</key>
-   <string>Project Name</string>
+   <string>FieldApp - d</string>
    </dict>
    </dict>
    </array>
